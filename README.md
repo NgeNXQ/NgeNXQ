@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center">beginner game developer from Ukraine</h3>
+<h3 align="center">Beginner game developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **Unity, C#, Math**
 
