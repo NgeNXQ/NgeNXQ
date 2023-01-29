@@ -16,10 +16,12 @@
 </p>
 
 <h3 align="left">Want to learn in the future:</h3>
-<p align="left">
 <h4 align="left">Deeper dive into:</h4>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
 <h4 align="left">Learn:</h4>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Unreal_Engine_logo_and_wordmark.png" alt="unrealengine" width="40" height="40"/>
+<p align="left">
+<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unrealengine" width="40" height="40"/>
 </p>
