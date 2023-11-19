@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="left">I'm Denys, a beginner game developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Unity, C#, Math**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
