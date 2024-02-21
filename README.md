@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<!-- <h1 align="center">Hi 👋</h1>
 <h3 align="left">I'm Denys, a beginner game developer from Ukraine.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,6 +13,6 @@
 
 <h4 align="left">Want to learn in the future:</h4>
 <p align="left">
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unrealengine" width="40" height="40"/> </p>
+<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unrealengine" width="40" height="40"/> </p> -->
 
 ![2024-02-22 00-10-16](https://github.com/NgeNXQ/NgeNXQ/assets/89969565/bfbe9a18-6240-4127-bdf1-bcc587450b6a)
