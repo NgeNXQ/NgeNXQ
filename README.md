@@ -15,4 +15,4 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unrealengine" width="40" height="40"/> </p> -->
 
-https://github.com/NgeNXQ/NgeNXQ/assets/89969565/e9822d34-d986-4943-8939-1a97aa820b02
+![thumbnail](https://github.com/NgeNXQ/NgeNXQ/assets/89969565/cfe50354-d129-4193-baed-d11ba9d67ea7)
